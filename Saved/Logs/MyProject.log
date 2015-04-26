@@ -113,4 +113,39 @@ Resource: (C:/Program Files/Epic Games/4.7/Engine/Content/Localization/Editor/en
 [2015.04.26-15.16.51:838][241]LogPlayLevel: PIE:  No blueprints needed recompiling
 [2015.04.26-15.16.51:839][241]PIE: New page: PIE session: VehicleExampleMap (Apr 26, 2015, 7:16:51 PM)
 [2015.04.26-15.16.51:878][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038891s)
-[2015.04.26-15.16.51:881][241]LogP
+[2015.04.26-15.16.51:881][241]LogPlayLevel: PIE: World Init took: (0.002731s)
+[2015.04.26-15.16.51:881][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.042496s)
+[2015.04.26-15.16.51:971][241]LogWorld: Game class is 'VehicleGameMode_C'
+[2015.04.26-15.16.52:080][241]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2015.04.26-15.16.52:129][241]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2015.04.26-17.16.52
+[2015.04.26-15.16.52:176][241]LogWorld: Bringing up level for play took: 0.095256
+[2015.04.26-15.16.52:186][241]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.518
+[2015.04.26-15.17.23:765][146]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game'
+[2015.04.26-15.17.30:953][341]LogRenderer:Warning: Reallocating scene render targets to support 1144x712 (Frame:1091).
+[2015.04.26-15.17.37:590][495]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/VehicleBP/Blueprints'
+[2015.04.26-15.18.18:043][243]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000008A03D5E40
+[2015.04.26-15.20.36:072][426]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000008F3E4A480
+[2015.04.26-15.20.50:447][278]BlueprintLog: New page: Compile VehicleHUD
+[2015.04.26-15.20.50:550][278]BlueprintEditorCompileResults: Info [0274.41] Compile of VehicleHUD successful! [in 102 ms]
+[2015.04.26-15.20.55:081][541]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.04.26-15.20.55:081][541]PIE: New page: PIE session: VehicleExampleMap (Apr 26, 2015, 7:20:55 PM)
+[2015.04.26-15.20.55:133][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051106s)
+[2015.04.26-15.20.55:139][541]LogPlayLevel: PIE: World Init took: (0.004929s)
+[2015.04.26-15.20.55:139][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.056950s)
+[2015.04.26-15.20.55:173][541]LogWorld: Game class is 'VehicleGameMode_C'
+[2015.04.26-15.20.55:175][541]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2015.04.26-15.20.55:188][541]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2015.04.26-17.20.55
+[2015.04.26-15.20.55:189][541]LogWorld: Bringing up level for play took: 0.012987
+[2015.04.26-15.20.55:190][541]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0.478
+[2015.04.26-15.36.27:405][269]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000008A170D1C0
+[2015.04.26-15.37.04:147][466]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.04.26-15.37.04:148][466]PIE: New page: PIE session: VehicleExampleMap (Apr 26, 2015, 7:37:04 PM)
+[2015.04.26-15.37.04:208][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060017s)
+[2015.04.26-15.37.04:215][466]LogPlayLevel: PIE: World Init took: (0.006509s)
+[2015.04.26-15.37.04:216][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.067671s)
+[2015.04.26-15.37.04:258][466]LogWorld: Game class is 'VehicleGameMode_C'
+[2015.04.26-15.37.04:260][466]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2015.04.26-15.37.04:275][466]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2015.04.26-17.37.04
+[2015.04.26-15.37.04:276][466]LogWorld: Bringing up level for play took: 0.015700
+[2015.04.26-15.37.04:307][466]PIE: Info Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0.639
+[2015.04.26-15.37.04:331][466]LogRenderer:War
